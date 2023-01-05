@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryHandsOnLab",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd1817ce-b7a0-44c8-a134-8355bab31899",
+		"tenantId": "42ab908c-bf98-4cc7-bdb4-17c0b6b48891"
+	}
+}
